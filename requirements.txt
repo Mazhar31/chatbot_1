@@ -1,6 +1,0 @@
-tensorflow
-numpy
-flask
-scikit_learn
-nltk
-colorama
